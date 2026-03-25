@@ -225,13 +225,15 @@ CRITICAL JSON RULES:
         });
       }
 
+      const api_key = "AIzaSyBATopg-_iEfQzDqPrvzQUwF88NRwxC8S4"
+
       const res = await fetch(
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
         {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "X-goog-api-key": "AIzaSyBATopg-_iEfQzDqPrvzQUwF88NRwxC8S4"
+            "X-goog-api-key": api_key
           },
           body: JSON.stringify({
             contents: [
