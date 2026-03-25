@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Autumn Glow Batik Suit Set",
+    "price": "₹3,199",
+    "original": "₹4,299",
+    "url": "https://www.shadesofyou.co.in/products/autumn-glow-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-yellow-batik-cotton-kurta-with-dupatta-styled.webp?width=600",
+    "tags": "yellow golden warm batik dupatta suit set office formal elegant cotton handcrafted"
+  },
+  {
+    "name": "Batik & Tie Dye's Love Child",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-tie-dye-s-love-child",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/b_Take_the_suit_from_t.webp?width=600",
+    "tags": "tie dye batik abstract multicolour casual boho artistic unique statement suit set"
+  },
+  {
+    "name": "Batik & Tie Dye's Love Child (Blue)",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/batik-tie-dye-s-love-child-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223092BlueG.webp?width=600",
+    "tags": "tie dye batik blue abstract multicolour casual artistic bold statement suit set"
+  },
+  {
+    "name": "Batik Artisanal Lace Tunic",
+    "price": "₹1,599",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-artisnal-lace-tunic",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/2505BROWN2.webp?width=600",
+    "tags": "lace tunic brown green batik artisanal minimal casual lightweight everyday top"
+  },
+  {
+    "name": "Batik Crazy In Love Suit Set – Black",
+    "price": "₹2,599",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/batik-crazy-in-love-suit-set-in-black",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/1_2.webp?width=600",
+    "tags": "black batik kurta suit set formal elegant office classic dark minimal handcrafted neckline"
+  },
+  {
+    "name": "Batik Crazy In Love Suit Set – Blue",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-crazy-in-love-suit-set-in-water-blue",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/shades-of-you-blue-handblock-kurta-neckline-detail.webp?width=600",
+    "tags": "blue water cool elegant office kurta suit set batik handcrafted neckline formal gift"
+  },
+  {
+    "name": "Batik Crazy In Love Suit Set – Lavender",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-crazy-in-love-suit-set-in-lavendar",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/1_1.webp?width=600",
+    "tags": "lavender purple soft pastel feminine kurta suit set batik gift casual elegant everyday"
+  },
+  {
+    "name": "Batik Crazy In Love Suit Set – Wine",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-crazy-in-love-suit-set-in-wine",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/shades-of-you-wine-handblock-kurta-styled-outdoor-front_d2e36120-b53c-4452-8669-0b57667bf4df.webp?width=600",
+    "tags": "wine deep red dark rich kurta batik suit set festive elegant outdoor special occasion"
+  },
+  {
+    "name": "Batik Crimson Co-Ord Set",
+    "price": "₹1,799",
+    "original": "₹3,399",
+    "url": "https://www.shadesofyou.co.in/products/batik-crimson-co-ord-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-3124-peach-block-print-cotton-kurta-set-front.webp?width=600",
+    "tags": "peach co-ord set block print cotton casual comfortable effortless separates matching"
+  },
+  {
+    "name": "Batik Desert Glow Suit Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/batik-desert-glow-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-pink-batik-cotton-kurta-neckline-closeup.webp?width=600",
+    "tags": "pink blush desert sand warm batik suit set neckline detail elegant feminine festive kurta"
+  },
+  {
+    "name": "Batik Dobby Weave Suit Set",
+    "price": "₹2,799",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/batik-dobby-weave-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A6382.webp?width=600",
+    "tags": "dobby weave textured batik suit set premium formal structured fabric unique special occasion"
+  },
+  {
+    "name": "Batik Earth & Rose Co-Ord Set",
+    "price": "₹1,799",
+    "original": "₹3,399",
+    "url": "https://www.shadesofyou.co.in/products/batik-earth-rose-co-ord-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-wine-block-print-cotton-coord-set-front.webp?width=600",
+    "tags": "wine rose earth tones co-ord set block print cotton casual separates comfortable everyday"
+  },
+  {
+    "name": "Batik Fit & Flare Dress – Green",
+    "price": "₹1,599",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-fit-flare-dress-green",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A5549.webp?width=600",
+    "tags": "green dress fit flare batik cotton casual comfortable flowy feminine midi one piece"
+  },
+  {
+    "name": "Batik Fit & Flare Dress – Lavender",
+    "price": "₹1,599",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-fit-flare-dress-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A5557.webp?width=600",
+    "tags": "lavender purple dress fit flare batik flowy feminine casual soft midi one piece"
+  },
+  {
+    "name": "Batik Gota Lurex Suit Set",
+    "price": "₹1,799",
+    "original": "₹3,399",
+    "url": "https://www.shadesofyou.co.in/products/batik-gota-lurex-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223091NavyC.webp?width=600",
+    "tags": "navy blue gota lurex shimmer festive suit set batik embellished wedding party occasion"
+  },
+  {
+    "name": "Batik Grey Aasman Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-grey-aasman-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_7907.webp?width=600",
+    "tags": "grey aasman sky neutral minimal office everyday suit set batik understated elegant cool"
+  },
+  {
+    "name": "Batik Grey Sky Tunic",
+    "price": "₹999",
+    "original": "₹1,499",
+    "url": "https://www.shadesofyou.co.in/products/batik-grey-sky-tunic",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223151GreyB.webp?width=600",
+    "tags": "grey tunic minimal casual everyday lightweight top batik simple understated affordable"
+  },
+  {
+    "name": "Batik in Alia's Anarkali Suit",
+    "price": "₹3,199",
+    "original": "₹4,299",
+    "url": "https://www.shadesofyou.co.in/products/batik-in-alia-s-anarkali-suit",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A6280.webp?width=600",
+    "tags": "anarkali floor length festive puja wedding guest batik flowy dramatic statement formal"
+  },
+  {
+    "name": "Batik Lint Noodle Strap Suit Set",
+    "price": "₹1,999",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/batik-noodle-strap-suit-set-copy",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/pomelli-image_19_1.webp?width=600",
+    "tags": "noodle strap sleeveless suit set lint beige summer breezy casual lightweight comfortable"
+  },
+  {
+    "name": "Batik Lurex Weave Dress (Pink)",
+    "price": "₹999",
+    "original": "₹1,499",
+    "url": "https://www.shadesofyou.co.in/products/batik-lurex-weave-dress",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A5892_1.webp?width=600",
+    "tags": "lurex shimmer dress evening party batik minimal one piece effortless festive occasion pink"
+  },
+  {
+    "name": "Batik Lurex Weave Dress (Sky Blue)",
+    "price": "₹1,699",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-fit-flare-dress-green-copy-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/3094SKY4.webp?width=600",
+    "tags": "sky blue lurex weave dress shimmer casual evening batik light feminine effortless"
+  },
+  {
+    "name": "Batik Lurex Weave Dress – Sky",
+    "price": "₹999",
+    "original": "₹1,499",
+    "url": "https://www.shadesofyou.co.in/products/batik-lurex-weave-dress-sky",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A5745.webp?width=600",
+    "tags": "sky blue lurex shimmer casual dress batik evening light flowy feminine minimal affordable"
+  },
+  {
+    "name": "Batik Nayra Suit Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/nayra-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-maroon-block-print-cotton-kurta-set-with-dupatta.webp?width=600",
+    "tags": "maroon red dupatta suit set festive occasion batik block print kurta traditional ethnic handcrafted"
+  },
+  {
+    "name": "Batik Noodle Strap Sky Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-noodle-strap-suit-set-in-lint",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/1_3.webp?width=600",
+    "tags": "sky blue noodle strap sleeveless suit set summer casual lightweight breezy batik festive"
+  },
+  {
+    "name": "Batik Noor Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-noor-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223084B.webp?width=600",
+    "tags": "noor elegant suit set batik premium formal graceful feminine occasion handcrafted gift"
+  },
+  {
+    "name": "Batik Olive Bloom Set",
+    "price": "₹1,599",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-olive-bloom-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223066OliveB.webp?width=600",
+    "tags": "olive green earthy muted casual gift nature relaxed batik cotton comfortable everyday minimal"
+  },
+  {
+    "name": "Batik Purple Bloom Suit Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/batik-purple-bloom-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-purple-batik-cotton-kurta-front-view_545ee1b7-9467-471b-bc71-ab411218a93e.webp?width=600",
+    "tags": "purple bloom floral batik suit set festive feminine elegant kurta handcrafted occasion gift"
+  },
+  {
+    "name": "Batik Saavri Suit Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/batik-saavri-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-peach-block-print-cotton-kurta-set-with-dupatta.webp?width=600",
+    "tags": "peach blush soft batik suit set dupatta elegant feminine wedding guest festive kurta warm"
+  },
+  {
+    "name": "Batik Scarlet Garden Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/batik-scarlet-garden-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-maroon-batik-cotton-kurta-front-view.webp?width=600",
+    "tags": "scarlet maroon red festive puja traditional batik dupatta suit set rich kurta handcrafted"
+  },
+  {
+    "name": "Batik Silver Moon Suit Set",
+    "price": "₹1,999",
+    "original": "₹3,599",
+    "url": "https://www.shadesofyou.co.in/products/batik-silver-mood-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A6263.webp?width=600",
+    "tags": "silver grey moon muted elegant evening office minimal suit set batik structured understated"
+  },
+  {
+    "name": "Batik Silver Petal Co-Ord Set",
+    "price": "₹1,999",
+    "original": "₹3,599",
+    "url": "https://www.shadesofyou.co.in/products/batik-crimson-co-ord-set-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-3146-lint-block-print-cotton-kurta-set-front.webp?width=600",
+    "tags": "pink lint co-ord set silver petal block print casual matching comfortable separates everyday"
+  },
+  {
+    "name": "Batik Silver Stripe Co-Ord Set",
+    "price": "₹1,599",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-silver-stripe-co-ord-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-3076-soft-pink-striped-cotton-coord-set-side.webp?width=600",
+    "tags": "stripe co-ord set pink blue casual effortless separates matching office comfortable everyday"
+  },
+  {
+    "name": "Batik Suit in Fog Lavender",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-suit-in-fog-lavendar",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223142FogB.webp?width=600",
+    "tags": "fog lavender purple misty soft feminine batik suit set elegant casual gift everyday"
+  },
+  {
+    "name": "Batik Suit Set in A Dessert",
+    "price": "₹1,999",
+    "original": "₹3,599",
+    "url": "https://www.shadesofyou.co.in/products/batik-suit-set-in-a-dessert",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223144SandC_1.webp?width=600",
+    "tags": "sand beige desert nude warm muted casual batik suit set minimal everyday comfortable"
+  },
+  {
+    "name": "Batik Sunrise Suit Set",
+    "price": "₹1,999",
+    "original": "₹3,599",
+    "url": "https://www.shadesofyou.co.in/products/batik-silver-mood-suit-set-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A6275.webp?width=600",
+    "tags": "sunrise warm orange pink glow batik suit set casual everyday feminine soft morning"
+  },
+  {
+    "name": "Batik Twilight Co-Ord Set",
+    "price": "₹1,599",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-twilight-co-ord-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_1512.webp?width=600",
+    "tags": "blue twilight abstract co-ord set casual comfortable separates batik everyday matching"
+  },
+  {
+    "name": "Batik Twilight Sky Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-twilight-sky-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/5_4_c4110c60-314e-4990-8559-02da7dbcf089.webp?width=600",
+    "tags": "twilight sky blue grey evening batik suit set elegant graceful semi-formal kurta"
+  },
+  {
+    "name": "Batik Umbrella Dress (Maroon)",
+    "price": "₹1,599",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/batik-umbrella-dress",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A5922_1.webp?width=600",
+    "tags": "umbrella dress maroon flowy casual comfortable midi batik effortless feminine one piece"
+  },
+  {
+    "name": "Batik Umbrella Dress (Yellow)",
+    "price": "₹1,699",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/neel-surya-batik-suit-set-copy",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/3112YLW4_1.webp?width=600",
+    "tags": "yellow umbrella dress batik flowy casual comfortable midi sunny cheerful feminine one piece"
+  },
+  {
+    "name": "Batik Vineyard Bloom Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/batik-vineyard-bloom-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_1530.webp?width=600",
+    "tags": "vineyard bloom purple green floral batik suit set festive occasion handcrafted rich ethnic"
+  },
+  {
+    "name": "Batik Wax & Wonder Tunic",
+    "price": "₹999",
+    "original": "₹1,499",
+    "url": "https://www.shadesofyou.co.in/products/batik-wax-wonder-tunic",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223082RedC.webp?width=600",
+    "tags": "red tunic casual everyday wax batik short top lightweight minimal comfortable affordable"
+  },
+  {
+    "name": "Batik With Dobby Tunic",
+    "price": "₹999",
+    "original": "₹1,499",
+    "url": "https://www.shadesofyou.co.in/products/batik-with-dobby-tunic",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223122NavyD.webp?width=600",
+    "tags": "navy rose dobby tunic textured casual everyday top batik short lightweight affordable"
+  },
+  {
+    "name": "Blue Frost Batik Suit Set",
+    "price": "₹2,799",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/sample",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-blue-batik-cotton-kurta-front-view.webp?width=600",
+    "tags": "blue frost cool icy batik suit set elegant office formal structured premium kurta"
+  },
+  {
+    "name": "Blue Tide Batik Suit Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/turquoise-tide-batik-suit-set-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_7809.webp?width=600",
+    "tags": "blue tide turquoise teal ocean batik suit set elegant festive kurta handcrafted cool"
+  },
+  {
+    "name": "Crushed Batik in Alia's Anarkali Suit",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/crushed-batik-in-alia-s-anarkali-suit",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223034LavenderG_1.webp?width=600",
+    "tags": "crushed batik anarkali floor length lavender turquoise festive puja wedding guest statement"
+  },
+  {
+    "name": "Flora Cinch Batik Dress",
+    "price": "₹1,699",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/batik-lurex-weave-dress-copy",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/3116PPL5_1.webp?width=600",
+    "tags": "purple floral cinch dress midi casual elegant feminine batik smocked new arrival waist"
+  },
+  {
+    "name": "Floral Printed Tunic",
+    "price": "₹499",
+    "original": "₹899",
+    "url": "https://www.shadesofyou.co.in/products/floral-printed-tunic",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/2508PRINT2.webp?width=600",
+    "tags": "floral printed tunic casual everyday affordable lightweight budget top simple comfortable minimal"
+  },
+  {
+    "name": "Golden Loom Batik Suit Set",
+    "price": "₹2,599",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/golden-loom-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/shades-of-you-yellow-batik-kurta-set-styled-full-length-palazzo_1.webp?width=600",
+    "tags": "golden yellow palazzo batik suit set formal elegant festive kurta warm premium handcrafted"
+  },
+  {
+    "name": "Lavender Moon One-Shoulder Maxi",
+    "price": "₹1,299",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-fit-flare-dress-lavender-copy-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/1975LAV2_1.webp?width=600",
+    "tags": "lavender one shoulder maxi dress batik new arrival feminine flowy casual statement elegant"
+  },
+  {
+    "name": "Mehendi Glow Lurex Midi Dress",
+    "price": "₹1,699",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-fit-flare-dress-green-copy",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/2086MEH1_1.webp?width=600",
+    "tags": "mehendi green lurex shimmer midi dress festive puja batik new arrival celebratory occasion"
+  },
+  {
+    "name": "Midnight Mehendi Anarkali Maxi",
+    "price": "₹1,299",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/batik-fit-flare-dress-lavender-copy",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/1922GRN4_1.webp?width=600",
+    "tags": "midnight green anarkali maxi dress batik dark rich festive floor length new arrival"
+  },
+  {
+    "name": "Neel Surya Batik Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/neel-surya-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-blue-block-print-sleeveless-kurta-with-dupatta-front.webp?width=600",
+    "tags": "blue sleeveless batik dupatta suit set casual festive elegant neel surya handcrafted"
+  },
+  {
+    "name": "Noor Royal Blue Batik Suit Set",
+    "price": "₹2,599",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/noor-royal-blue-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/shades-of-you-blue-batik-kurta-set-styled-full-length-detail.webp?width=600",
+    "tags": "royal blue noor batik suit set formal elegant office premium handcrafted structured kurta"
+  },
+  {
+    "name": "Noorban Batik Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/noorban-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223134GreenB.webp?width=600",
+    "tags": "green red noorban batik suit set festive occasion handcrafted traditional ethnic kurta"
+  },
+  {
+    "name": "Ocean Muse Batik Halter Maxi",
+    "price": "₹1,699",
+    "original": "₹3,199",
+    "url": "https://www.shadesofyou.co.in/products/lavender-moon-one-shoulder-maxi-copy-1",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/20170BLU1_1.webp?width=600",
+    "tags": "blue ocean halter maxi batik new arrival casual feminine flowy statement summer resort"
+  },
+  {
+    "name": "Olive Breeze Smocked Midi Dress",
+    "price": "₹1,699",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/noor-royal-blue-batik-suit-set-copy",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/2087SOLV2_1_1ff0c92f-3ee5-4de9-bc5f-1a9a929185e6.webp?width=600",
+    "tags": "olive smocked midi dress batik new arrival casual earthy comfortable feminine summer"
+  },
+  {
+    "name": "Petal Anarkali Set in Batik",
+    "price": "₹1,999",
+    "original": "₹3,599",
+    "url": "https://www.shadesofyou.co.in/products/red-petal-anarkali-set-in-batik",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223088RedB.webp?width=600",
+    "tags": "red black petal anarkali batik set festive floor length statement occasion traditional ethnic"
+  },
+  {
+    "name": "Pink Fern Batik Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/pink-fern-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_2837.webp?width=600",
+    "tags": "pink fern soft feminine batik suit set elegant casual festive gift floral kurta dupatta"
+  },
+  {
+    "name": "Rama Van Batik Suit Set",
+    "price": "₹1,999",
+    "original": "₹3,599",
+    "url": "https://www.shadesofyou.co.in/products/rama-van-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/soy-blue-green-block-print-kurta-with-dupatta-front_webp.webp?width=600",
+    "tags": "blue green dupatta suit set batik nature earthy casual handcrafted kurta traditional"
+  },
+  {
+    "name": "Rustic Rose Batik Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/rustic-rose-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_9903.webp?width=600",
+    "tags": "rustic rose pink warm batik suit set casual elegant gift handcrafted feminine kurta"
+  },
+  {
+    "name": "Silver Rain Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/batik-lurex-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/SOY2223125_Pink_B.webp?width=600",
+    "tags": "silver lurex shimmer festive wedding guest celebration party pink black batik suit set evening"
+  },
+  {
+    "name": "Skyrose Batik Suit Set",
+    "price": "₹2,599",
+    "original": "₹3,799",
+    "url": "https://www.shadesofyou.co.in/products/skyrose-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_2807.webp?width=600",
+    "tags": "sky rose pink soft feminine batik suit set casual elegant gift floral kurta dupatta"
+  },
+  {
+    "name": "The Olive Leaf Batik Suit Set",
+    "price": "₹2,599",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/the-olive-leaf-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/shades-of-you-olive-batik-kurta-set-styled-full-length-front-detail_3.webp?width=600",
+    "tags": "olive green leaf earthy nature batik suit set premium elegant casual gift handcrafted"
+  },
+  {
+    "name": "Turquoise Tide Batik Suit Set",
+    "price": "₹2,599",
+    "original": null,
+    "url": "https://www.shadesofyou.co.in/products/turquoise-tide-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_9853.webp?width=600",
+    "tags": "turquoise teal ocean blue batik suit set bold statement festive kurta handcrafted cool"
+  },
+  {
+    "name": "Violet Garden Batik Suit Set",
+    "price": "₹3,199",
+    "original": "₹4,299",
+    "url": "https://www.shadesofyou.co.in/products/violet-garden-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/IMG_9826_c7b4cbfa-856e-422f-bdae-297831238e2e.webp?width=600",
+    "tags": "violet purple garden floral batik suit set festive premium elegant kurta dupatta occasion"
+  },
+  {
+    "name": "Zindagi Gulzar Hai Batik Suit Set",
+    "price": "₹2,799",
+    "original": "₹3,999",
+    "url": "https://www.shadesofyou.co.in/products/zindagi-gulzar-hai-batik-suit-set",
+    "img": "https://www.shadesofyou.co.in/cdn/shop/files/005A6411_1.webp?width=600",
+    "tags": "rose pink floral festive batik suit set premium handcrafted joyful celebratory occasion kurta"
+  }
+]

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shades of You — Homepage Sections</title>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400&family=Inter:wght@400&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════
+     SECTION 1 — LOOKBOOK
+════════════════════════════════════════ -->
+<section class="lookbook">
+  <div class="lookbook-inner">
+    <div class="lookbook-header">
+      <div class="lookbook-header-text">
+        <h2 class="section-heading">Styled for Your Life</h2>
+        <p>Real moments, real outfits. See how SOY pieces move through your week.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="lookbook-track-wrap" id="lookbook-track-wrap">
+    <div class="lookbook-track" id="lookbook-track">
+
+      <!-- Cards injected dynamically by script.js -->
+
+    </div><!-- end track -->
+  </div><!-- end wrap -->
+
+  <div class="lookbook-dots" id="lookbook-dots">
+    <!-- Dots injected dynamically by script.js -->
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════
+     SECTION 2 — AI STYLE FINDER
+════════════════════════════════════════ -->
+<section class="ai-finder">
+  <div class="ai-finder-inner">
+
+    <div class="ai-finder-header">
+      <h2 class="section-heading">Describe your dream piece</h2>
+      <p>Tell us what you're imagining — the occasion, the vibe, the feeling. We'll find the closest match in our collection.</p>
+    </div>
+
+    <!-- Input -->
+    <div class="finder-input-area">
+      <label class="finder-input-label" for="style-input">What's on your mind?</label>
+      <textarea
+        id="style-input"
+        class="finder-textarea"
+        rows="3"
+        placeholder="Something earthy and flowy for a weekend trip to the hills, not too formal, soft colours…"
+        maxlength="500"
+      ></textarea>
+      <div class="finder-input-footer">
+        <div class="finder-footer-top">
+          <input type="file" id="image-input" accept="image/*" multiple hidden>
+          <label for="image-input" class="finder-upload-btn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Attach Inspiration
+          </label>
+          <span class="finder-image-count" id="image-count"></span>
+        </div>
+        <div class="finder-footer-bottom">
+          <span class="finder-input-hint">Be as descriptive as you like — occasion, colour, mood, fabric</span>
+          <div class="finder-examples">
+            <button class="finder-example-chip" data-text="Something blue and elegant for a friend's wedding reception">Wedding Reception</button>
+            <button class="finder-example-chip" data-text="Comfortable ethnic for everyday office wear, breathable fabric, subtle print">Everyday Office</button>
+            <button class="finder-example-chip" data-text="Festive and vibrant for Diwali, I want something that feels celebratory">Diwali Festive</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="finder-submit-row">
+      <button class="finder-submit-btn" id="finder-btn" disabled>
+        <span>Find My Match</span>
+        <span class="btn-icon">→</span>
+      </button>
+    </div>
+
+    <!-- Loading -->
+    <div class="finder-loading" id="finder-loading">
+      <div class="loading-shimmer">
+        <div class="loading-dots">
+          <span></span><span></span><span></span>
+        </div>
+        Searching through our collection for you
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="finder-results" id="finder-results">
+      <div class="results-intro">
+        <p id="results-intro-text"></p>
+      </div>
+      <div class="results-grid" id="results-grid"></div>
+    </div>
+
+    <!-- Error -->
+    <div class="finder-error" id="finder-error">
+      <p>Something went wrong while searching. Please try again in a moment.</p>
+    </div>
+
+  </div>
+</section>
+
+
+<script src="js/script.js" defer></script>
+</body>
+</html>
