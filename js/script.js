@@ -224,8 +224,9 @@ CRITICAL JSON RULES:
           }
         });
       }
-
-      const api_key = "AIzaSyBATopg-_iEfQzDqPrvzQUwF88NRwxC8S4"
+      
+      // Put the provided Api key here ->
+      const api_key = "API_KEY"
 
       const res = await fetch(
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
